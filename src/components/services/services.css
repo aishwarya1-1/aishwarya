@@ -1,0 +1,30 @@
+.desc-vertical {
+  font-size: 0.1rem;
+  font-weight: 10;
+  color: var(--color-light);
+}
+.vertical-timeline-element-title {
+  color: var(--color-white);
+}
+
+.vertical-timeline-element-subtitle {
+  color: var(--color-white);
+}
+.vertical-timeline-element-content {
+  box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25),
+    0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+  padding: 2em 3em !important;
+}
+.vertical-timeline-content:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+}
+
+/* ================MEDIA QUERIES (SMALL DEVICES ============= */
+@media screen and (max-width: 600px) {
+  .vertical-timeline-element-date {
+    display: block !important;
+    float: none !important;
+    color: var(--color-white);
+  }
+}
