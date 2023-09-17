@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/aishwarya/static/css/main.dba19877.css",
-    "main.js": "/aishwarya/static/js/main.179d12c5.js",
+    "main.css": "/aishwarya/static/css/main.a6f7f32b.css",
+    "main.js": "/aishwarya/static/js/main.8f7bf66a.js",
     "static/media/bg-texture.jpg": "/aishwarya/static/media/bg-texture.4ea3c99acde069bc005c.jpg",
     "static/media/airplane.gif": "/aishwarya/static/media/airplane.90003f53878f59462c3c.gif",
     "static/media/cardistry.gif": "/aishwarya/static/media/cardistry.2efc9bb8a59d0dc32809.gif",
     "static/media/me.JPG": "/aishwarya/static/media/me.ae3768a2d39d6c5294e5.JPG",
     "static/media/kindle.gif": "/aishwarya/static/media/kindle.c932c87808d3cfcc65da.gif",
-    "static/media/about.jpg": "/aishwarya/static/media/about.8e26845dd31a11278eb4.jpg",
-    "static/media/AISHWARYA_K.pdf": "/aishwarya/static/media/AISHWARYA_K.5e3e964de3af0c6770f9.pdf",
+    "static/media/about.jpeg": "/aishwarya/static/media/about.a0fba664da66d19b9ef2.jpeg",
+    "static/media/AishwaryaKalburgi.pdf": "/aishwarya/static/media/AishwaryaKalburgi.d3a12bf9eb21907108d3.pdf",
     "index.html": "/aishwarya/index.html",
-    "main.dba19877.css.map": "/aishwarya/static/css/main.dba19877.css.map",
-    "main.179d12c5.js.map": "/aishwarya/static/js/main.179d12c5.js.map"
+    "main.a6f7f32b.css.map": "/aishwarya/static/css/main.a6f7f32b.css.map",
+    "main.8f7bf66a.js.map": "/aishwarya/static/js/main.8f7bf66a.js.map"
   },
   "entrypoints": [
-    "static/css/main.dba19877.css",
-    "static/js/main.179d12c5.js"
+    "static/css/main.a6f7f32b.css",
+    "static/js/main.8f7bf66a.js"
   ]
 }
