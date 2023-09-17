@@ -63,3 +63,10 @@ footer a {
     margin-bottom: 2.6rem;
   }
 }
+@media screen and (max-width: 360px) {
+  footer {
+   
+    width: 100vh;
+  }
+  
+}

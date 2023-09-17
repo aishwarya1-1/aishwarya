@@ -73,14 +73,7 @@ const services = () => {
                 transition: 'var(--transition)', 
               }}
               contentArrowStyle={{ borderRight: '7px solid  rgb(44, 44, 108)' }}
-              contentClassName='timeline-element-content' // Add this class
-              // Add the hover effect directly to the contentStyle
-              style={{
-                ':hover': {
-                  background: 'white', // Replace with your desired hover color
-                },
-              }}
-             
+              
             >
               
               <h3 className="vertical-timeline-element-title">

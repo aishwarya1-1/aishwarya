@@ -2,7 +2,6 @@ header {
   height: 100vh;
   padding-top: 7rem;
   overflow: hidden;
-  background-image: url("../../assets/bgj.png");
 }
 
 .header__container {
@@ -79,7 +78,14 @@ header {
   .scroll_down {
     display: none;
   }
-  .me img {
-    width: 22rem;
+}
+@media screen and (max-width: 360px) {
+  header {
+    height: 125vh;
+    width: 100vh;
+  }
+  .header_socials,
+  .scroll_down {
+    display: none;
   }
 }
